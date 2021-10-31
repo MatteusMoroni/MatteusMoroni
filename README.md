@@ -6,11 +6,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/MatteusMoroni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatteusMoroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusMoroni&layout=compact&langs_count=7&theme=dracula"/>
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatteusMoroni&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatteusMoroni&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteusMoroni&theme=monokai)
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatteusMoroni&theme=dracula"/> 
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatteusMoroni&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteusMoroni&theme=dracula"/>
+    
+    
+![]()
 
 </div>
   
@@ -24,6 +26,7 @@
   <img align="center" alt="matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
    </div>
+  <br>
   <br>
   <div> 
 
