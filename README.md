@@ -1,7 +1,7 @@
 ### Hey there! 😄
 ### My name is Matteus Moroni
 
-- 💻 I’m currently working on network monitoring on Autoglass
+- 💻 I’m currently getting a bachelor degree in Science of Software Development
 - ⏳ I’m currently learning ReactJs and TypeScript
 <br>
 <div align="center">
