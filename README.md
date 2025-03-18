@@ -1,14 +1,14 @@
 ### Hey there! 😄
 ### My name is Matteus Moroni
 
-- 💻 I’m currently getting a bachelor degree in Science of Software Development
-- ⏳ I’m currently learning ReactJs and TypeScript
+- 💻 I am graduating in Software Development at BYU-Idaho
+- ⏳ I’m currently learning Python and C#
 <br>
 <div align="center">
   <a href="https://github.com/MatteusMoroni">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatteusMoroni&theme=dracula"/> 
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatteusMoroni&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dracula"/>
+
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteusMoroni&theme=dracula"/>
     
     
@@ -24,6 +24,8 @@
   <img align="center" alt="matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="matt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
+  
  
    </div>
   <br>
